@@ -4,6 +4,8 @@
 
 By leveraging crowdsourced user ratings for local cafes, users can indicate their preferences and **STUDY** will return results that are tailored to that specific user.
 
+![Main](study.gif)
+
 ## Team
 
 - **Product Owner**: [Daniel Guan (@StrykeBack)](https://github.com/StrykeBack)
@@ -12,18 +14,12 @@ By leveraging crowdsourced user ratings for local cafes, users can indicate thei
 
 ## Table of Contents
 
-1.  [Usage](#Usage)
 1.  [Requirements](#requirements)
 1.  [Development](#development)
     1.  [Installing Dependencies](#installing-dependencies)
     1.  [Tasks](#tasks)
 1.  [Team](#team)
 1.  [Contributing](#contributing)
-
-## Usage
-
-> Search a location in the bar to find study spots near the location
-> Because our database has minimal data, please search "Hack Reactor NYC" and click 2Beans for existing reviews
 
 ## Requirements
 
